@@ -17,7 +17,7 @@
 
 ### 1. The known face
 
-![이미지](image1.png)
+![이미지](image1.jpg)
 ![이미지](image2.png)
 
 **기간:** 2025.05 – 2025.07  
